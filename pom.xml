@@ -20,11 +20,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>group.rxcloud</groupId>
-    <artifactId>capa-java-bom</artifactId>
+    <artifactId>capa-java-thirdparty-bom</artifactId>
     <packaging>pom</packaging>
     <version>1.0.1.RELEASE</version>
-    <name>capa-java-bom</name>
-    <description>Capa Java BOM : collection of components needed for cloud native applications</description>
+    <name>capa-java-thirdparty-bom</name>
+    <description>Capa Java ThirdParty BOM : collection of components needed for cloud appliction api.</description>
     <url>https://github.com/capa-cloud</url>
 
     <licenses>
